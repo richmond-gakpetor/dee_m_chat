@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427951102153",
+    "project_id": "dee-m-chat",
+    "storage_bucket": "dee-m-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427951102153:android:f23afbc0049653139f9518",
+        "android_client_info": {
+          "package_name": "com.vxon_apps.dee_m_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427951102153-pc10ga9aldukie7k8789thdbcv5u80be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqonFL_UWnh7CO4VDZmkALCjjvVYduAdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427951102153-pc10ga9aldukie7k8789thdbcv5u80be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
